@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm srikara 👋</h1>
+<h1 align="center">Hey, I'm Srikara 👋</h1>
 
 <p align="center">
   <em>Applied AI Engineer • PhD in quantum communications • building across LLMs, RAG, multimodal ML, evaluation, and production-minded AI systems</em>
