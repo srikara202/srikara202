@@ -21,18 +21,18 @@
 
 ### 🙂 a little about me
 
-I’m an AI engineer based in **Sydney**, and I came into AI from a PhD background in **quantum communications**.
+I’m an AI engineer based in **Sydney**, with a PhD background in **quantum communications**.
 
-That means I naturally have a soft spot for first principles, probabilistic thinking, evaluation, and being a little annoyingly careful about whether a system actually works instead of just sounding impressive.
+That path gave me a strong appreciation for first principles, probabilistic thinking, careful evaluation, and being maybe a little too interested in whether a system actually works beyond just sounding impressive.
 
-Most of my projects end up somewhere in this zone:
+Most of my projects tend to follow a similar rhythm:
 
 - understand the mechanics properly  
 - build the thing end to end  
-- find where it breaks  
-- make it usable for real people  
+- figure out where it breaks  
+- make it useful for real people  
 
-These days I’m especially drawn to **transformer internals, LLM fine-tuning, RAG, multimodal systems, and the engineering around APIs, deployment, monitoring, and reproducibility**.
+These days, I’m especially interested in **transformer internals, LLM fine-tuning, RAG, multimodal systems, and the engineering work around APIs, deployment, monitoring, and reproducibility**.
 
 ### 🧰 stuff I reach for a lot
 
@@ -56,31 +56,31 @@ These days I’m especially drawn to **transformer internals, LLM fine-tuning, R
 
 #### building from the inside out
 
-- **GPT-2 from scratch** : manually rebuilt a GPT-2-style decoder-only transformer in PyTorch, then loaded `distilgpt2` weights into the custom architecture and checked that the behavior matched.
+- **GPT-2 from scratch** : rebuilt a GPT-2-style decoder-only transformer by hand in PyTorch, loaded `distilgpt2` weights into the custom architecture, and checked that the behavior matched.
 - **Llama-2 English → SQL** : fine-tuned Llama-2-7B with **LoRA + 4-bit NF4** for schema-grounded SQL generation in a Colab-first workflow.
-- **Image captioning** : paired a frozen `EfficientNet-B0` encoder with a Transformer decoder to learn the vision-language interface properly, not just the final demo.
+- **Image captioning** : paired a frozen `EfficientNet-B0` encoder with a Transformer decoder to understand the vision-language connection properly, not just ship a final demo.
 
 #### grounded GenAI systems
 
-- **Nutrition RAG chatbot** : built a single-document RAG pipeline from scratch, spent a lot of time on chunking strategy, and wrapped it in a React + Supabase app with citation-aware answers.
+- **Nutrition RAG chatbot** : built a single-document RAG pipeline from scratch, spent a lot of time thinking through chunking strategy, and wrapped it in a React + Supabase app with citation-aware answers.
 - **YouTube Ad Compliance Checker** : built a retrieval-backed ad audit pipeline using **Azure Video Indexer, Azure AI Search, Azure OpenAI, FastAPI, and React**, with async job handling and a self-hosted worker path for the messy real-world case where cloud-hosted YouTube downloading gets blocked.
 
 #### production-minded ML
 
-- **Cricket T20 Score Predictor** : used a practical regression problem as the excuse to go deep on the part I really wanted to learn: **DVC pipelines, MLflow registry, Docker, GitHub Actions, Kubernetes, and Prometheus-style observability**.
+- **Cricket T20 Score Predictor** : used a practical regression problem as a reason to go deep on the parts I really wanted to learn: **DVC pipelines, MLflow registry, Docker, GitHub Actions, Kubernetes, and Prometheus-style observability**.
 
 ### ✨ what ties it all together
 
-If there’s a pattern in my repos, it’s probably this:
+If there’s a theme running through my repos, it’s probably this:
 
-I like going from **“how does this actually work?”** to **“cool, now let’s make it usable.”**
+I like starting with **“how does this actually work?”** and eventually getting to **“great, now let’s make it usable.”**
 
 That usually means:
 
 - building from scratch when I want to understand the mechanics  
 - keeping generation grounded in schemas, documents, or evidence  
 - caring about evaluation, debugging, and failure modes  
-- enjoying the slightly chaotic phase where notebooks grow up into apps, APIs, and workflows  
+- enjoying the slightly chaotic stage where notebooks turn into apps, APIs, and workflows  
 
 ### 🌱 currently into
 
@@ -92,13 +92,13 @@ That usually means:
 
 ### 🎵 outside of code
 
-I’m also into **singing** (especially Indian classical music and Western popular music), **story-driven / open-world games**, and reading **AI blogs and papers** just for the fun of it.
+Outside of code, I’m into **singing** (especially Indian classical music and Western popular music), **story-driven / open-world games**, and reading **AI blogs and papers** purely for the fun of it.
 
-A lot of my repos start the same way: I read something interesting, get a little too curious, and then end up building a whole project around it.
+A lot of my repos start the same way: I read something interesting, get a bit too curious, and somehow end up building a whole project around it.
 
 ### 🤝 say hi
 
-I’m always happy to chat about AI/ML engineering, LLM systems, RAG, multimodal ML, or just interesting ideas that sit somewhere between theory and implementation.
+I’m always happy to chat about AI/ML engineering, LLM systems, RAG, multimodal ML, or interesting ideas that live somewhere between theory and implementation.
 
 <p>
   <a href="https://www.linkedin.com/in/srikarashankara"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-srikarashankara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
