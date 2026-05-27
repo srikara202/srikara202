@@ -21,7 +21,7 @@
 
 ### 🙂 a little about me
 
-I’m an AI engineer based in **Sydney**, with a PhD background in **quantum communications**.
+I’m an aspiring AI engineer based in **Sydney**, with a PhD background in **quantum communications**.
 
 That path gave me a strong appreciation for first principles, probabilistic thinking, careful evaluation, and being maybe a little too interested in whether a system actually works beyond just sounding impressive.
 
