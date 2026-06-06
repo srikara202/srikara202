@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/srikarashankara">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/srikaras">LinkedIn</a> •
   <a href="https://scholar.google.com/citations?user=QmFHyvIAAAAJ">Google Scholar</a> •
   <a href="mailto:srikara.s.phd@gmail.com">Email</a>
 </p>
@@ -101,7 +101,7 @@ A lot of my repos start the same way: I read something interesting, get a bit to
 I’m always happy to chat about AI/ML engineering, LLM systems, RAG, multimodal ML, or interesting ideas that live somewhere between theory and implementation.
 
 <p>
-  <a href="https://www.linkedin.com/in/srikarashankara"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-srikarashankara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/srikaras"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-srikarashankara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://scholar.google.com/citations?user=QmFHyvIAAAAJ"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
   <a href="mailto:srikara.s.phd@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-srikara.s.phd%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
