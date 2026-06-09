@@ -23,7 +23,7 @@
 
 I'm an applied AI engineer based in **Sydney**. Before this I spent five years on a PhD in **quantum communications**, which left me with eight published papers and a low tolerance for systems that sound impressive but don't hold up. That's mostly what I bring to AI work: a bias toward probability, careful evaluation, and checking whether something does what it claims.
 
-Now I build across LLMs, RAG, multimodal models, and the engineering that surrounds them — APIs, deployment, tracing, evaluation. The parts that separate a demo from something people can rely on.
+Now I build across LLMs, RAG, multimodal models, and the engineering that surrounds them : APIs, deployment, tracing, evaluation. The parts that separate a demo from something people can rely on.
 
 Most of what I build runs on the same loop:
 
@@ -67,7 +67,7 @@ Most of what I build runs on the same loop:
 
 #### building from the inside out
 
-- **GPT-2 from scratch** : a decoder-only transformer rebuilt in PyTorch — attention, causal masking, pre-LayerNorm blocks, autoregressive sampling. The part I'm proudest of is the weight loader that maps `distilgpt2`'s fused Conv1D attention weights into my per-head layout, then checks the logits match the reference almost exactly. Built to understand the internals, not to ship a model.
+- **GPT-2 from scratch** : a decoder-only transformer rebuilt in PyTorch : attention, causal masking, pre-LayerNorm blocks, autoregressive sampling. The part I'm proudest of is the weight loader that maps `distilgpt2`'s fused Conv1D attention weights into my per-head layout, then checks the logits match the reference almost exactly. Built to understand the internals, not to ship a model.
 - **Image Captioning** : a ~32M-parameter captioner pairing a frozen `EfficientNet-B0` encoder with a Transformer decoder over **8,000+ images**. The whole point was the seam between vision and language: a trainable projection that lets the decoder condition on image features instead of treating the two modalities as separate problems.
 
 ### ✨ the through-line
@@ -84,7 +84,7 @@ I tend to start with *how does this thing work?* and stop somewhere around *okay
 
 ### 🎵 outside of code
 
-I sing — Indian classical mostly, plus whatever Western pop is stuck in my head that week — and I lose a fair few evenings to story-driven and open-world games. The rest of my spare time goes to AI papers and blogs, which is usually how these projects start: I read something, get curious, and a repo shows up a week later.
+I sing : Indian classical mostly, plus whatever Western pop is stuck in my head that week : and I lose a fair few evenings to story-driven and open-world games. The rest of my spare time goes to AI papers and blogs, which is usually how these projects start: I read something, get curious, and a repo shows up a week later.
 
 ### 🤝 say hi
 
